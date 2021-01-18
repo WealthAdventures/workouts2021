@@ -1,10 +1,10 @@
 # **Wealth Adventures** workout Q1.21
 
-        ⟼ _Are you looking to improve your finances or reduce your income risk? Do you want to achieve financial freedom?_
+        ⟼ Are you looking to improve your finances or reduce your income risk? Do you want to achieve financial freedom?
 
-        ⟼ _Do you think the future of work is the gig economy? That we are trending towards digital jobs with laxer job security? Looking to get ahead of the curve?_
+        ⟼ Do you think the future of work is the gig economy? That we are trending towards digital jobs with laxer job security? Looking to get ahead of the curve?
 
-        ⟼ _Can you not find a job you like? Do you want to work within your values? Do you want to monetise your passion?_
+        ⟼ Can you not find a job you like? Do you want to work within your values? Do you want to monetise your passion?
 
 Building a <span style="text-decoration:underline;">second income</span> might be the answer you’re looking for.
 
@@ -23,9 +23,9 @@ Welcome to Wealth Adventures!
 
 _<span style="text-decoration:underline;">Start me up</span>_ is a challenge-focused mastermind group. Its objective is to support its members during the _<span style="text-decoration:underline;">0 to 600 in 6w</span>_ challenge defined below.
 
-A mastermind groups is: 
+A mastermind groups is [^1]:
 
-    _“The coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony.” _[^1]
+    “The coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony.”
 
 The members of the group will offer **mutual support, differing perspectives, access to resources and accountability** to other members pursuing the challenge.
 
@@ -38,8 +38,7 @@ The mastermind group will be run remotely and will provide:
 * **An async platform** to support, communicate and share between meetings (Discord)
 * A degree of structure and **some facilitation** along the challenge
 
-
-## What is the **_0 to 600 in 6 weeks _**challenge?
+## What is the **_0 to 600 in 6 weeks_** challenge?
 
 _<span style="text-decoration:underline;">Start me up</span>_ members challenge themselves to achieve the following in **6 weeks**:
 
