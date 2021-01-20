@@ -4,7 +4,7 @@
 
         ⟼ Do you think the future of work is the gig economy? That we are trending towards digital jobs with laxer job security? Looking to get ahead of the curve?
 
-        ⟼ Can you not find a job you like? Do you want to work within your values? Do you want to monetise your passion?
+        ⟼ Can you not find a job you like? Do you want to work within your values? Do you want to monetise your knowledge and expertise?
 
 Building a <span style="text-decoration:underline;">second income</span> might be the answer you’re looking for.
 
