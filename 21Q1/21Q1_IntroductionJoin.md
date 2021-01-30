@@ -116,4 +116,4 @@ Stay the course and adventure on!
 
 ---
 
-All content by [Wealth Adventures](wealthadventures.org) is licensed under Attribution-NonCommercial-ShareAlike 4.0 Intl. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+All content by [Wealth Adventures](https://wealthadventures.org) is licensed under Attribution-NonCommercial-ShareAlike 4.0 Intl. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
